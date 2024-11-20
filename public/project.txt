@@ -1,0 +1,3 @@
+This is the first html project of The Web Developer’s Kickstart.
+This project is a simple navigation bar which contain links to different pages and a logo with a text.
+so let's do it.
